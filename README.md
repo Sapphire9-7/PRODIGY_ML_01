@@ -1,7 +1,7 @@
 # PRODIGY_ML_01
 # Linear Regression Project
 
-This repository contains files related to a linear regression project. The project is divided into two main files, each serving a specific purpose. Here's a brief overview of each file:
+This repository contains files related to a linear regression project in relation to my ML internship at Prodigy InfoTech. The project is divided into two main files, each serving a specific purpose. Here's a brief overview of each file:
 
 ## File 1: Data.ipynb
 
@@ -15,7 +15,7 @@ This Jupyter Notebook file focuses on data preprocessing and analysis. It prepar
 4. Rounded the decimal points in the dataset.
 5. Converted the "sqft_basement" and "yr_renovated" columns into binary columns and renamed them.
 6. Conducted statistical analysis on the dataset columns.
-7. Addressed outliers in the columns based on the winsorization technique and addressed skewness using the "Box-Cox" technique.
+7. Addressed outliers in the columns based on the "Winsorization" technique and addressed skewness using the "Box-Cox" technique.
 8. Saved the modified data into a file named "After_Modifications.csv".
 
 ## File 2: LRModel.ipynb
