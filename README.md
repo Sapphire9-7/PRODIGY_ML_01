@@ -1,7 +1,7 @@
 # PRODIGY_ML_01
 # Linear Regression Project
 
-This repository contains files related to a linear regression project in relation to my ML internship at Prodigy InfoTech. The project is divided into two main files, each serving a specific purpose. Here's a brief overview of each file:
+This repository contains files related to a linear regression project under my ML internship at Prodigy InfoTech. The project is divided into two main files, each serving a specific purpose. Here's a brief overview of each file:
 
 ## File 1: Data.ipynb
 
